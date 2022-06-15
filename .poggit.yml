@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/AokoAsami199/HideNameTag-PM4
+build-by-default: true
+branches:
+- main
+projects:
+  HideNameTag-PM4:
+    path: ""
+...
